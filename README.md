@@ -1,4 +1,4 @@
-# AK Health - Heart Disease Prediction & Doctor Consultation Platform
+#  Heart Disease Prediction & Doctor Consultation Platform
 
 A comprehensive healthcare platform that combines AI-powered heart disease prediction with dynamic doctor consultation booking system, built with Flask and machine learning.
 
